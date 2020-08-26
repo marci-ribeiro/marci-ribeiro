@@ -3,6 +3,7 @@
 ### Olá! Sou a Marci!
 
 Formada em Análise e desenvolvimento de sistemas pela Unip.
+
 Já trabalhei com qualidade de software, automação de testes web e API utilizando a linguagem java 💻
 
 Sempre estou estudando desenvolvimento de software para me aperfeiçoar e alcançar o meu objetivo, que 
