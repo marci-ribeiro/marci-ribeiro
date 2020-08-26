@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá! Sou a ** Marci ** !
+### Olá! Sou a Marci!
 
 Formada em Análise e desenvolvimento de sistemas pela Unip.
 Já trabalhei com qualidade de software, automação de testes web e API utilizando a linguagem java 💻
