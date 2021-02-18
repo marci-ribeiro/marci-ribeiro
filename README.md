@@ -18,7 +18,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberto a novos desafios
 
 Meus perfis: 👇🏼
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcilene-ribeiro-452b18bb/)](https://www.linkedin.com/in/marcilene-ribeiro-452b18bb/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=http://www.instagram.com/marci.ribeir/)](https://www.instagram.com/marci.ribeir/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcilene-ribeiro-452b18bb/)](https://www.linkedin.com/in/marcilene-ribeiro-452b18bb/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=http://www.instagram.com/marci_tech/)](https://www.instagram.com/marci.ribeir/) 
 
 
 
