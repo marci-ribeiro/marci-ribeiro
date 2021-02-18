@@ -4,12 +4,11 @@
 
 Formada em Análise e desenvolvimento de sistemas pela Unip.
 
-Já trabalhei com qualidade de software, automação de testes web e API utilizando a linguagem java 💻
+Trabalho atualmente com Salesforce: desenvolvendo LWC, Triggers, configurações do sistema e etc💻
 
 💗 Apaixonada por desenvolvimento de software.
 
-Sempre estou estudando desenvolvimento de software para me aperfeiçoar e alcançar o meu objetivo, que 
-é me tornar uma desenvolvedora java Fullstack.
+Sempre estou estudando desenvolvimento de software e Trailhead, para me tornar uma profissional mais completa.
 
 Sou apaixonada por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
