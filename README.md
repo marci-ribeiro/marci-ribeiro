@@ -8,7 +8,7 @@ Trabalho atualmente com Salesforce: desenvolvendo LWC, Triggers, configurações
 
 💗 Apaixonada por desenvolvimento de software.
 
-Sempre estou estudando desenvolvimento de software e Trailhead, para me tornar uma profissional mais completa.
+Estudo desenvolvimento de software e Trailhead, para me tornar uma profissional mais completa.
 
 Sou apaixonada por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
