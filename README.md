@@ -18,7 +18,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberto a novos desafios
 
 Meus perfis: 👇🏼
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciribeiro/)](https://www.linkedin.com/in/marciribeiro/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=http://www.instagram.com/marci.tech/)](https://www.instagram.com/marci.tech/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciribeiro/)](https://www.linkedin.com/in/marciribeiro/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=http://www.instagram.com/marci_dev/)](https://www.instagram.com/marci_dev/) 
 
 
 
